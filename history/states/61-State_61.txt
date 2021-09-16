@@ -1,0 +1,19 @@
+state={
+	id=61
+	name="STATE_61"
+	provinces={
+		124 161 319 781 875 1309 1391 1429 2039 2416 
+	}
+    manpower=6061
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = BLA
+        add_core_of = BLA
+    }
+}

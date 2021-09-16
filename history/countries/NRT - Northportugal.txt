@@ -1,0 +1,24 @@
+﻿capital = 33
+
+set_popularities = {
+	neutrality = 60
+    fascism = 40
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Imperador Jorge I"
+	desc = "POLITICS_HENRIQUE_DESC"
+	picture = "Portrait_Jorge.dds"
+	expire = "1953.3.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}

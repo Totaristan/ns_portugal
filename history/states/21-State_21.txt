@@ -1,0 +1,19 @@
+state={
+	id=21
+	name="STATE_21"
+	provinces={
+		549 569 792 997 1468 1500 2263 2587 2589 
+	}
+    manpower=21754
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NRT
+        add_core_of = NRT
+    }
+}

@@ -1,0 +1,23 @@
+state={
+	id=221
+	name="STATE_221"
+	provinces={
+		554 1481 1892 2173 2845 2909 
+	}
+    manpower=216606
+	resources={
+		steel=40
+	}
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		
+        buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = JRG
+        add_core_of = JRG
+    }
+}

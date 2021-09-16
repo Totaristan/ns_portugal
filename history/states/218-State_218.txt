@@ -1,0 +1,19 @@
+state={
+	id=218
+	name="STATE_218"
+	provinces={
+		412 990 1437 1486 1518 1582 1763 1803 1928 2210 2831 2852 2873 2890 2904 2913 
+	}
+    manpower=13290
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = GRI
+        add_core_of = GRI
+    }
+}

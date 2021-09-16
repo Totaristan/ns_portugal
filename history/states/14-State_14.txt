@@ -1,0 +1,19 @@
+state={
+	id=14
+	name="STATE_14"
+	provinces={
+		69 204 394 689 763 834 918 1038 2494 2508 
+	}
+    manpower=7746
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NHO
+        add_core_of = NHO
+    }
+}

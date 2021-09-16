@@ -1,0 +1,121 @@
+#reload countrycolors
+TST = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+TOT = {
+	color = rgb { 174  72  32 }
+	color_ui = rgb { 138 155 116 }
+}
+PET = {
+	color = rgb { 255 191 191 }
+	color_ui = hsv { 0.05 0.25 1.2 }
+}
+AAA = {
+	color = rgb { 240 0 0 }
+	color_ui = rgb { 163 17 31 }
+}
+COR = {
+	color = rgb { 180 118 9 }
+	color_ui = rgb { 163 17 31 }
+}
+OFI = {
+	color = rgb { 0 78 153 }
+	color_ui = rgb { 163 17 31 }
+}
+HER = {
+	color = rgb { 98  34  206 }
+	color_ui = rgb { 163 17 31 }
+}
+BLA = {
+	color = rgb { 213  155  180 }
+	color_ui = rgb { 163 17 31 }
+}
+DEL = {
+	color = rgb { 200  0  0 }
+	color_ui = rgb { 163 17 31 }
+}
+LUS = {
+	color = rgb { 116 194 194 }
+	color_ui = rgb { 163 17 31 }
+}
+MED = {
+	color = rgb { 2  40  123 }
+	color_ui = rgb { 163 17 31 }
+}
+PAT = {
+	color = rgb { 148  0  0 }
+	color_ui = rgb { 163 17 31 }
+}
+DAL = {
+	color = rgb { 255 197 195 }
+	color_ui = rgb { 163 17 31 }
+}
+PEA = {
+	color = rgb { 235 136 245 }
+	color_ui = rgb { 163 17 31 }
+}
+PIO = {
+	color = rgb { 45 118 26 }
+	color_ui = rgb { 163 17 31 }
+}
+CND = {
+	color = rgb { 255  90  0 }
+	color_ui = rgb { 163 17 31 }
+}
+ALN = {
+	color = rgb { 85 0 0 }
+	color_ui = rgb { 163 17 31 }
+}
+UNI = {
+	color = rgb { 207 89 126 }
+	color_ui = rgb { 163 17 31 }
+}
+APA = {
+	color = rgb { 15 133 84 }
+	color_ui = rgb { 163 17 31 }
+}
+GRI = {
+	color = rgb { 204 80 62 }
+	color_ui = rgb { 163 17 31 }
+}
+MUS = {
+	color = rgb { 186 168 123 }
+	color_ui = rgb { 163 17 31 }
+}
+GLO = {
+	color = rgb { 115 115 115 }
+	color_ui = rgb { 163 17 31 }
+}
+CAX = {
+	color = rgb { 51 160 44 }
+	color_ui = rgb { 163 17 31 }
+}
+JRG = {
+	color = rgb { 109 64 10 }
+	color_ui = rgb { 163 17 31 }
+}
+WOR = {
+	color = rgb { 0 147 146 }
+	color_ui = rgb { 163 17 31 }
+}
+NRT = {
+	color = rgb { 19 16 59 }
+	color_ui = rgb { 163 17 31 }
+}
+NHO = {
+	color = rgb { 255 214 2 }
+	color_ui = rgb { 163 17 31 }
+}
+KIN = {
+	color = rgb { 181 13 76 }
+	color_ui = rgb { 163 17 31 }
+}
+COM = {
+	color = rgb { 33 102 172 }
+	color_ui = rgb { 163 17 31 }
+}
+NOO = {
+	color = rgb { 51 153 254 }
+	color_ui = rgb { 163 17 31 }
+}

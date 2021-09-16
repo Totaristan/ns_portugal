@@ -1,0 +1,19 @@
+state={
+	id=201
+	name="STATE_201"
+	provinces={
+		934 1248 1274 1406 1529 1865 1869 1919 1972 2044 2267 2798 2833 2855 2916 2922 
+	}
+    manpower=300472
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = JRG
+        add_core_of = JRG
+    }
+}

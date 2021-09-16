@@ -1,0 +1,103 @@
+﻿capital = 270
+
+oob = "DEL_1936"
+
+set_popularities = {
+	communism = 5
+	socialismo = 35
+	neutrality = 0
+	democratic = 30
+	fascism = 30
+}
+
+set_party_name = { 
+    ideology = communism
+    long_name = "Partido Comunista Português"
+    name = "PCP"
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Partido Socialista Unido - Pomada p'ra Direita"
+    name = "PSU-PD"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Partido Monárquico"
+    name = "PM"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Liberal"
+    name = "PL"
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Partido Conservador"
+    name = "PC"
+}
+
+set_politics = {
+	ruling_party = socialismo
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Delegacia Socialista"
+	desc = "POLITICS_DELEGACIA_DESC"
+	picture = "Portrait_Delegacia.dds"
+	expire = "1953.3.1"
+	ideology = subsocialismo
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Delegacia Liberal"
+	desc = "POLITICS_DELEGACIA_DESC"
+	picture = "Portrait_Delegacia.dds"
+	expire = "1953.3.1"
+	ideology = social_liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Delegacia Conservadora"
+	desc = "POLITICS_DELEGACIA_DESC"
+	picture = "Portrait_Delegacia.dds"
+	expire = "1953.3.1"
+	ideology = lusitanio
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Delegacia Monárquica"
+	desc = "POLITICS_DELEGACIA_DESC"
+	picture = "Portrait_Delegacia.dds"
+	expire = "1953.3.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "NorthPortugalinho"
+	desc = "POLITICS_NPINHO_DESC"
+	picture = "Portrait_NPinho.dds"
+	expire = "1953.3.1"
+	ideology = npismo
+	traits = {
+		
+	}
+}

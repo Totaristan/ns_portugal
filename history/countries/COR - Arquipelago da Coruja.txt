@@ -1,0 +1,30 @@
+﻿capital = 30
+
+set_popularities = {
+	socialismo = 60
+    communism = 40
+}
+
+set_politics = {
+	ruling_party = socialismo
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Partido Comunista Português"
+    name = "PCP"
+}
+
+create_country_leader = {
+	name = "Eduardo Correia"
+	desc = "POLITICS_JERONIMO_DESC"
+	picture = "Portrait_Dudu.dds"
+	expire = "1953.3.1"
+	ideology = socialfascismo
+	traits = {
+		
+	}
+}

@@ -1,0 +1,22 @@
+state={
+	id=139
+	name="STATE_139"
+	provinces={
+		33 353 371 626 814 1084 1693 1806 1908 1991 2011 2251 2302 2682 2686 2700 2728 
+	}
+    manpower=20720
+	resources = {
+		tungsten = 50
+	}
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = CND
+        add_core_of = CND
+    }
+}

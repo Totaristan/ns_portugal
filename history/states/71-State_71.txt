@@ -1,0 +1,19 @@
+state={
+	id=71
+	name="STATE_71"
+	provinces={
+		109 378 523 540 565 638 703 782 808 878 1072 1162 1307 1351 1361 1502 1840 1960 1992 2075 2078 2240 2290 2319 2441 2456 2499 2609 2616 2617 2623 
+	}
+    manpower=24530
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NOO
+        add_core_of = NOO
+    }
+}

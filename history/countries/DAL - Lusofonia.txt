@@ -1,0 +1,57 @@
+﻿capital = 278
+
+set_popularities = {
+	fascism = 60
+    socialismo = 10
+    communism = 10
+    neutrality = 10
+    democratic = 10
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "CHEGA"
+    name = "CHEGA"
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Normies"
+    name = "Normies"
+}
+
+set_party_name = { 
+    ideology = communism 
+    long_name = "Normies"
+    name = "Normies"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Normies"
+    name = "Normies"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Normies"
+    name = "Normies"
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Miguel Silva"
+	desc = "POLITICS_LUSOFONIA_DESC"
+	picture = "Portrait_Lusofonia.dds"
+	expire = "1953.3.1"
+	ideology = reacionarismo
+	traits = {
+		
+	}
+}

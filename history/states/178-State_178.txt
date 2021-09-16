@@ -1,0 +1,19 @@
+state={
+	id=178
+	name="STATE_178"
+	provinces={
+		70 227 289 370 730 774 1354 1696 1838 1859 2100 2270 2773 2795 2812 2836 2847 
+	}
+    manpower=27258
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = LUS
+        add_core_of = LUS
+    }
+}

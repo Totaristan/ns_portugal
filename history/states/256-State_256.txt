@@ -1,0 +1,20 @@
+state={
+	id=256
+	name="STATE_256"
+	provinces={
+		285 409 465 478 563 695 748 830 1001 1013 1094 1136 1138 1226 1328 1504 1561 1655 1669 1691 1736 1760 1863 1889 1949 2000 2009 2029 2152 2293 2358 2366 2386 2394 2430 2538 2540 3169 3180 3197 3201 3204 3211 3216 3217 3218 3226 3229 3238 3251 3256 3258 3259 3263 3264 3267 3274 3299 
+	}
+    manpower=53555
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        victory_points = { 2540 10 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PEA
+        add_core_of = PEA
+    }
+}

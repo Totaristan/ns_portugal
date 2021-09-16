@@ -1,0 +1,19 @@
+state={
+	id=231
+	name="STATE_231"
+	provinces={
+		368 712 794 796 849 1207 1839 1920 1973 2105 2443 2903 2917 2949 2951 2979 2980 3011 
+	}
+    manpower=22740
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = GLO
+        add_core_of = GLO
+    }
+}

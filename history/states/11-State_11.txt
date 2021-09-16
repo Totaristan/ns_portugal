@@ -1,0 +1,19 @@
+state={
+	id=11
+	name="STATE_11"
+	provinces={
+		248 278 314 582 1466 2568 2579 
+	}
+    manpower=7695
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = KIN
+        add_core_of = KIN
+    }
+}

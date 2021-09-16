@@ -1,0 +1,20 @@
+state={
+	id=279
+	name="STATE_279"
+	provinces={
+		160 270 405 776 838 1081 1107 1285 1374 1551 1630 1649 1705 1847 1888 1895 2057 2403 2418 2421 2436 2565 2569 2571 3345 3353 3356 3358 3364 3368 3370 3375 3380 3389 3390 3393 3397 3399 3401 3402 3403 3404 3405 3406 
+	}
+    manpower=391402
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		victory_points = { 1705 25 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = DAL
+        add_core_of = DAL
+    }
+}

@@ -1,0 +1,19 @@
+state={
+	id=271
+	name="STATE_271"
+	provinces={
+		768 1080 1417 2036 2116 3293 3330 
+	}
+    manpower=10651
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PIO
+        add_core_of = PIO
+    }
+}

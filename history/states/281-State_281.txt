@@ -1,0 +1,20 @@
+state={
+	id=281
+	name="STATE_281"
+	provinces={
+		584 809 1287 1519 1887 1900 1956 2042 2089 2237 2389 2390 2522 3386 3394 3400 
+	}
+    manpower=213608
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        victory_points = { 2042 15 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = DAL
+        add_core_of = DAL
+    }
+}

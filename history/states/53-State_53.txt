@@ -1,0 +1,19 @@
+state={
+	id=53
+	name="STATE_53"
+	provinces={
+		90 987 1257 1524 
+	}
+    manpower=5396
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = MUS
+        add_core_of = MUS
+    }
+}

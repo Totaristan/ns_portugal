@@ -1,0 +1,19 @@
+state={
+	id=106
+	name="STATE_106"
+	provinces={
+		157 225 742 914 1210 1297 2091 2224 2365 2400 2433 2632 2636 2641 2646 2647 2652 2654 2657 2662 
+	}
+    manpower=61015
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NOO
+        add_core_of = NOO
+    }
+}

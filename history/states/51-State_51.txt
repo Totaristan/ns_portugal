@@ -1,0 +1,19 @@
+state={
+	id=51
+	name="STATE_51"
+	provinces={
+		14 186 199 210 460 641 671 704 1601 1664 1667 2572 684 946 1345 1834 2640 32 234 536 2502 2656 
+	}
+    manpower=6142
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = AAA
+        add_core_of = AAA
+    }
+}

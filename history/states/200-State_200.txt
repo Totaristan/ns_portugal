@@ -1,0 +1,19 @@
+state={
+	id=200
+	name="STATE_200"
+	provinces={
+		226 610 868 1279 2775 2838 
+	}
+    manpower=5339
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PEA
+        add_core_of = PEA
+    }
+}

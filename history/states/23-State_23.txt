@@ -1,0 +1,19 @@
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		182 315 355 694 1063 2480 
+	}
+    manpower=13718
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = COR
+        add_core_of = COR
+    }
+}

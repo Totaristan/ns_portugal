@@ -1,0 +1,19 @@
+state={
+	id=265
+	name="STATE_265"
+	provinces={
+		64 100 168 488 784 971 1029 1246 1442 1653 1694 1769 1829 1843 2004 2070 2115 2192 2197 2469 2516 3312 3313 3325 3331 3333 
+	}
+    manpower=51858
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = MED
+        add_core_of = MED
+    }
+}

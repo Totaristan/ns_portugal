@@ -1,0 +1,19 @@
+state={
+	id=99
+	name="STATE_99"
+	provinces={
+		1179 1339 1467 2643 
+	}
+    manpower=10416
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NOO
+        add_core_of = NOO
+    }
+}

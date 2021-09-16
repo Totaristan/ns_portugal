@@ -1,0 +1,19 @@
+state={
+	id=214
+	name="STATE_214"
+	provinces={
+		832 869 908 1527 1777 2854 
+	}
+    manpower=7059
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PEA
+        add_core_of = PEA
+    }
+}

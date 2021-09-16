@@ -1,0 +1,22 @@
+state={
+	id=2
+	name="STATE_2"
+	provinces={
+		481 2573 
+	}
+    manpower=4023
+	resources = {
+		tungsten = 40
+	}
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NHO
+        add_core_of = NHO
+    }
+}

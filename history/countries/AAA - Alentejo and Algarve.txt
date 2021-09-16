@@ -1,0 +1,81 @@
+﻿capital = 49
+
+puppet = DEL
+
+set_popularities = {
+	communism = 35
+	socialismo = 43
+	neutrality = 3
+	democratic = 7
+	fascism = 12
+}
+
+set_politics = {
+	ruling_party = socialismo
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = communism
+    long_name = "Partido da Vanguarda Revolucionária"
+    name = "PVR"
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Legião Viriatista"
+    name = "LV"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Coletividade Anárquica"
+    name = "CA"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Trabalhadores pelos Interesses Económicos"
+    name = "TIE"
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Liga de São Simão"
+    name = "LSS"
+}
+
+create_country_leader = {
+	name = "Camarada Jerónimo"
+	desc = "POLITICS_JERONIMO_DESC"
+	picture = "Portrait_Jeronimo.dds"
+	expire = "1953.3.1"
+	ideology = albanismo
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Valério Rosa"
+	desc = "POLITICS_JERONIMO_DESC"
+	picture = "Portrait_Valerio.dds"
+	expire = "1953.3.1"
+	ideology = socialfascismo
+	traits = {
+		
+	}
+}
+
+add_ideas = {
+	wa
+}
+
+create_faction = PSU
+add_to_faction = AAA
+add_to_faction = HER
+add_to_faction = COR
+add_to_faction = CAX
+add_to_faction = GLO

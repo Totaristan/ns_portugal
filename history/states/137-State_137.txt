@@ -1,0 +1,19 @@
+state={
+	id=137
+	name="STATE_137"
+	provinces={
+		240 403 1457 2481 
+	}
+    manpower=3741
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PEA
+        add_core_of = PEA
+    }
+}

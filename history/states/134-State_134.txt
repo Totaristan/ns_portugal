@@ -1,0 +1,19 @@
+state={
+	id=134
+	name="STATE_134"
+	provinces={
+		123 503 760 1995 
+	}
+    manpower=10452
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PAT
+        add_core_of = PAT
+    }
+}

@@ -1,0 +1,302 @@
+ideas = {
+
+	political_advisor = {
+
+		ALN_midhat_frasheri = {
+
+			picture = generic_political_advisor_arab_1
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { popular_figurehead }
+		}
+
+		ALN_jocelyn_percy = {
+
+			picture = generic_political_advisor_arab_2
+				
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { prince_of_terror }
+		}
+
+		ALN_fiqri_dine = {
+
+			picture = generic_political_advisor_arab_3
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { war_industrialist }
+		}
+	}
+
+	theorist = {
+
+		ALN_qemal_komani = {
+			ledger = army
+					
+			picture = generic_army_arab_1
+
+			allowed = {
+				original_tag = ALN
+			}
+			
+			research_bonus = {
+				land_doctrine = 0.10
+			}
+			
+			traits = { military_theorist }
+		}
+
+		ALN_xhelal_mitrovica = {
+			ledger = air
+					
+			picture = generic_air_arab_1
+				
+			allowed = {
+				original_tag = ALN
+			}
+			
+			research_bonus = {
+				air_doctrine = 0.10
+			}
+			
+			traits = { air_warfare_theorist }
+		}
+
+		ALN_hajre_fetahu = {
+			ledger = navy
+					
+					
+			allowed = {
+				original_tag = ALN
+			}
+			
+			picture = generic_political_advisor_arab_1
+			
+			research_bonus = {
+				naval_doctrine = 0.10
+			}
+			
+			traits = { naval_theorist }
+		}
+	}
+
+	high_command = {
+
+		ALN_selim_moishiou = {
+			ledger = army
+
+			picture = generic_army_arab_1
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { army_artillery_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_alexander_mori = {
+			ledger = army
+
+			picture = generic_army_arab_2
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { army_regrouping_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_kristo_cajupi = {
+			ledger = army
+
+			picture = generic_army_arab_3
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { army_concealment_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_halil_nergutti = {
+			ledger = navy
+
+			picture = generic_navy_arab_1
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+			traits = { navy_capital_ship_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	# MILITARY
+	army_chief = {
+
+		ALN_kol_bibe_mirakaj = {
+			
+			picture = generic_army_arab_2
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { army_chief_defensive_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+		
+		ALN_prenk_pervizi = {
+			
+			picture = generic_army_arab_1
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { army_chief_morale_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+
+	air_chief = {
+
+		ALN_eqrem_libohova = {
+			
+			picture = generic_air_arab_1
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { air_chief_ground_support_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_zuhdi_shabani = {
+			
+			picture = generic_air_arab_3
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { air_chief_safety_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_aziz_sulejmani = {
+			
+			picture = generic_air_arab_2
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { air_chief_reform_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+
+	navy_chief = {
+
+		ALN_rexhep_mitrovica = {
+			
+			picture = generic_navy_arab_2
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { navy_chief_naval_aviation_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_hasan_begolli = {
+			
+			picture = generic_navy_arab_1
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { navy_chief_commerce_raiding_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+
+		ALN_ismael_ghaxa = {
+			
+			picture = generic_navy_arab_3
+			
+			allowed = {
+				original_tag = ALN
+			}
+			
+
+			
+			traits = { navy_chief_maneuver_2 }
+			
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}

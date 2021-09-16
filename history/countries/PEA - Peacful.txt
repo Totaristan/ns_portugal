@@ -1,0 +1,64 @@
+﻿capital = 224
+
+set_popularities = {
+	democratic = 40
+    communism = 10
+    neutrality = 20
+    fascism = 6
+    socialismo = 24
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Partido Socialista"
+    name = "PS"
+}
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Social-Liberal"
+    name = "PSL"
+}
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Partido dos Grelhadores"
+    name = "PG"
+}
+set_party_name = { 
+    ideology = communism 
+    long_name = "Partido Unionista dos Trabalhadores Agrários"
+    name = "PUTA"
+}
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Partido da Salvação Nacional"
+    name = "PSN"
+}
+
+create_country_leader = {
+	name = "Vitorino Silva"
+	desc = "POLITICS_PEDRO_DESC"
+	picture = "Portrait_Tino.dds"
+	expire = "1953.3.1"
+	ideology = social_liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Bill"
+	desc = "POLITICS_PEDRO_DESC"
+	picture = "Portrait_Tino.dds"
+	expire = "1953.3.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}

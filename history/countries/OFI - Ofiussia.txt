@@ -1,0 +1,57 @@
+﻿capital = 235
+
+set_popularities = {
+    communism = 10
+	socialismo = 30
+    neutrality = 15
+    democratic = 27
+    fascism = 18
+}
+
+set_politics = {
+	ruling_party = socialismo
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = communism 
+    long_name = "Partido Comunista dos Operários de Ofiussia"
+    name = "PCOO"
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Partido Agrário-Trabalhista de Ofiussia"
+    name = "PATO"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Partido Democrata"
+    name = "PD"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Popular de Ofiussia"
+    name = "PPO"
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Partido Constitucional de Ofiussia"
+    name = "PCO"
+}
+
+create_country_leader = {
+	name = "Henrique S. Mendes"
+	desc = "POLITICS_HENRIQUE_DESC"
+	picture = "Portrait_Socrates.dds"
+	expire = "1953.3.1"
+	ideology = subsocialismo
+	traits = {
+		
+	}
+}

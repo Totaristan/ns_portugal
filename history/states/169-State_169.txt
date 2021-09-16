@@ -1,0 +1,19 @@
+state={
+	id=169
+	name="STATE_169"
+	provinces={
+		36 45 73 1185 1634 2190 
+	}
+    manpower=5397
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = OFI
+        add_core_of = OFI
+    }
+}

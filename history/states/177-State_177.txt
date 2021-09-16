@@ -1,0 +1,19 @@
+state={
+	id=177
+	name="STATE_177"
+	provinces={
+		422 545 592 872 1355 1472 1573 1717 1799 1901 1976 1987 2351 2556 2760 2790 2814 
+	}
+    manpower=46911
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = APA
+        add_core_of = APA
+    }
+}

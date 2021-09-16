@@ -1,0 +1,26 @@
+state={
+	id=270
+	name="STATE_270"
+	provinces={
+		243 732 797 1126 1447 1584 2208 2543 2558 3291 3307 3317 3320 3328 3332 3340 
+	}
+    manpower=509515
+	resources={
+		steel=100
+	}
+	buildings_max_level_factor=1.000
+    state_category = megalopolis
+    history = {
+        victory_points = { 1447 25 }
+        victory_points = { 2208 50 }
+        victory_points = { 3307 15 }
+        buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 5
+			air_base = 8
+		}
+        owner = DEL
+        add_core_of = DEL
+    }
+}

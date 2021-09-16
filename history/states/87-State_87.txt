@@ -1,0 +1,19 @@
+state={
+	id=87
+	name="STATE_87"
+	provinces={
+		107 188 192 469 547 687 769 985 2661 
+	}
+    manpower=4247
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = TOT
+        add_core_of = TOT
+    }
+}

@@ -1,0 +1,57 @@
+﻿capital = 211
+
+set_popularities = {
+	communism = 11
+	socialismo = 25
+	neutrality = 6
+	democratic = 1
+	fascism = 57
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = communism
+    long_name = "Partido dos Operários, Regionalistas, Revolucionários e Anarquistas"
+    name = "PORRA"
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Partido Popular Trabalhista"
+    name = "PPT"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Partido dos Cidadãos Unidos Solidários"
+    name = "PdosCUS"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Liberal"
+    name = "PL"
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "União Democrática Nacional"
+    name = "UDN"
+}
+
+create_country_leader = {
+	name = "Shogun Pedro"
+	desc = "POLITICS_PEDRO_DESC"
+	picture = "Portrait_Pedro.dds"
+	expire = "1953.3.1"
+	ideology = crista
+	traits = {
+		
+	}
+}

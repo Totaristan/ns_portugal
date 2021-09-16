@@ -1,0 +1,19 @@
+state={
+	id=251
+	name="STATE_251"
+	provinces={
+		258 417 670 683 731 1042 1057 1170 1195 1315 1541 1733 1818 2171 2379 2395 2404 2446 2518 2552 3095 3113 3134 3144 3146 3156 3177 3188 3190 3198 3205 3212 3225 
+	}
+    manpower=22716
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PIO
+        add_core_of = PIO
+    }
+}

@@ -1,0 +1,19 @@
+state={
+	id=97
+	name="STATE_97"
+	provinces={
+		207 1167 1936 2196 
+	}
+    manpower=12974
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = HER
+        add_core_of = HER
+    }
+}

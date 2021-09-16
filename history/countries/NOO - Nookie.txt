@@ -1,0 +1,30 @@
+﻿capital = 89
+
+set_popularities = {
+	communism = 30
+    fascism = 70
+}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Partido Nacional Republicano"
+    name = "PNR"
+}
+
+create_country_leader = {
+	name = "Capitão Nookie"
+	desc = "POLITICS_HENRIQUE_DESC"
+	picture = "Portrait_Falcao.dds"
+	expire = "1953.3.1"
+	ideology = fascismo_pa
+	traits = {
+		
+	}
+}

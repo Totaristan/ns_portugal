@@ -1,0 +1,19 @@
+state={
+	id=109
+	name="STATE_109"
+	provinces={
+		43 250 926 
+	}
+    manpower=10137
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = WOR
+        add_core_of = WOR
+    }
+}

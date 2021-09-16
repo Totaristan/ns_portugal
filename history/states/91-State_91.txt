@@ -1,0 +1,19 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		389 532 720 751 882 1599 1788 1793 1820 2006 2639 
+	}
+    manpower=4037
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PAT
+        add_core_of = PAT
+    }
+}

@@ -1,0 +1,23 @@
+﻿capital = 4
+
+set_popularities = {
+	communism = 100
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "NorthPortugalinho"
+	desc = "POLITICS_NPINHO_DESC"
+	picture = "Portrait_NPinho.dds"
+	expire = "1953.3.1"
+	ideology = npismo
+	traits = {
+		
+	}
+}

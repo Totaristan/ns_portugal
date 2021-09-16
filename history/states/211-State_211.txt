@@ -1,0 +1,19 @@
+state={
+	id=211
+	name="STATE_211"
+	provinces={
+		448 609 658 764 836 1435 2050 2843 2876 2907 2911 
+	}
+    manpower=55483
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PET
+        add_core_of = PET
+    }
+}

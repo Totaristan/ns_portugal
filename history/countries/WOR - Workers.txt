@@ -1,0 +1,22 @@
+﻿capital = 153
+
+set_popularities = {
+	communism = 100
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	name = "Camarada Bruno"
+	desc = "POLITICS_BRUNO_DESC"
+	picture = "Portrait_Bruno.dds"
+	expire = "1953.3.1"
+	ideology = lol
+	traits = {
+		
+	}
+}

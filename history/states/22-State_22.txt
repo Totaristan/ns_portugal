@@ -1,0 +1,19 @@
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		228 317 2183 2585 
+	}
+    manpower=6044
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NRT
+        add_core_of = NRT
+    }
+}

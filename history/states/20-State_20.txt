@@ -1,0 +1,21 @@
+state={
+	id=20
+	name="STATE_20"
+	provinces={
+		130 148 490 583 588 1282 1324 1325 1536 2495 2584 2592 
+	}
+    manpower=38969
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		victory_points = { 130 40 }
+		victory_points = { 2592 5 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = HER
+        add_core_of = HER
+    }
+}

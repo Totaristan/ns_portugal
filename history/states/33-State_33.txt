@@ -1,0 +1,19 @@
+state={
+	id=33
+	name="STATE_33"
+	provinces={
+		147 235 321 383 635 646 693 771 793 1575 2069 2437 
+	}
+    manpower=39343
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NRT
+        add_core_of = NRT
+    }
+}

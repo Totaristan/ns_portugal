@@ -1,0 +1,20 @@
+state={
+	id=275
+	name="STATE_275"
+	provinces={
+		1742 2226 
+	}
+    manpower=161774
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		victory_points = { 2226 15 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = DAL
+        add_core_of = DAL
+    }
+}

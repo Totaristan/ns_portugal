@@ -1,0 +1,19 @@
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		331 437 521 747 1147 1232 1234 1631 1721 1729 2053 2695 2715 
+	}
+    manpower=8093
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = GRI
+        add_core_of = GRI
+    }
+}

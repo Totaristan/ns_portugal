@@ -1,0 +1,19 @@
+state={
+	id=118
+	name="STATE_118"
+	provinces={
+		367 1562 2354 
+	}
+    manpower=9271
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PAT
+        add_core_of = PAT
+    }
+}

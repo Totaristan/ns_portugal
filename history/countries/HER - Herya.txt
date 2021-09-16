@@ -1,0 +1,57 @@
+﻿capital = 7
+
+set_popularities = {
+	communism = 20
+	socialismo = 40
+	neutrality = 3
+	democratic = 12
+	fascism = 25
+}
+
+set_politics = {
+	ruling_party = socialismo
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = communism
+    long_name = "Partido Nacionalista Republicano"
+    name = "PNR"
+}
+
+set_party_name = { 
+    ideology = socialismo 
+    long_name = "Partido Imperial Democrata"
+    name = "PID"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Partido Independentista das Colónias"
+    name = "PIC"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Progressivo Democrata"
+    name = "PPD"
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Liga Nacional Heryae"
+    name = "LNH"
+}
+
+create_country_leader = {
+	name = "Imperador Heirich"
+	desc = "POLITICS_JERONIMO_DESC"
+	picture = "Portrait_Herya.dds"
+	expire = "1953.3.1"
+	ideology = falsa_social_democracia
+	traits = {
+		
+	}
+}

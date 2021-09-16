@@ -1,0 +1,19 @@
+state={
+	id=163
+	name="STATE_163"
+	provinces={
+		920 2001 2730 
+	}
+    manpower=23897
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = CAX
+        add_core_of = CAX
+    }
+}

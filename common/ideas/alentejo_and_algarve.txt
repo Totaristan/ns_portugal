@@ -1,0 +1,21 @@
+ideas = {
+	country = {
+		wa = {
+			
+			allowed = {
+				original_tag = AAA
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				generate_wargoal_tension = 1.00
+				stability_factor = 0.10
+			}
+		}
+    }
+}

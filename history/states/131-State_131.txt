@@ -1,0 +1,19 @@
+state={
+	id=131
+	name="STATE_131"
+	provinces={
+		799 974 1579 1849 1893 2028 2164 2352 2549 2704 
+	}
+    manpower=9619
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = CND
+        add_core_of = CND
+    }
+}

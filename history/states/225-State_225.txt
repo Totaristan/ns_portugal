@@ -1,0 +1,19 @@
+state={
+	id=225
+	name="STATE_225"
+	provinces={
+		194 351 661 933 1060 1169 1277 1327 1560 2026 2059 2121 2260 2277 2461 2881 2889 2936 2945 2956 2961 2975 3002 3025 3033 
+	}
+    manpower=21295
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = TOT
+        add_core_of = TOT
+    }
+}

@@ -1,0 +1,19 @@
+state={
+	id=167
+	name="STATE_167"
+	provinces={
+		520 1114 1415 1957 2739 2746 
+	}
+    manpower=12708
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PAT
+        add_core_of = PAT
+    }
+}

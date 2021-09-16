@@ -1,0 +1,44 @@
+﻿capital = 148
+
+oob = "PAT_1936"
+
+set_popularities = {
+    communism = 100
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_party_name = { 
+    ideology = communism 
+    long_name = "Partido Comunista Português"
+    name = "PCP"
+}
+
+create_country_leader = {
+	name = "General Mário"
+	desc = "POLITICS_MARIO_DESC"
+	picture = "Portrait_Mario.dds"
+	expire = "1953.3.1"
+	ideology = marismo
+	traits = {
+		
+	}
+}
+
+create_corps_commander = {
+	name = "Mário"
+	portrait_path = "gfx/leaders/PAT/Portrait_General_Mario.dds"
+	traits = { winter_specialist media_personality war_hero }
+	skill = 5
+
+	
+	attack_skill = 5
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 5
+}

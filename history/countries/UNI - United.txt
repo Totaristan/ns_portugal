@@ -1,0 +1,36 @@
+﻿capital = 80
+
+set_popularities = {
+	democratic = 10
+    communism = 15
+	neutrality = 40
+	fascism = 35
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1934.3.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Bloco Central"
+    name = "BC"
+}
+set_party_name = { 
+    ideology = fascism 
+    long_name = "Partido Imperial"
+    name = "PI"
+}
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Socio-Liberal"
+    name = "PSL"
+}
+set_party_name = { 
+    ideology = communism 
+    long_name = "Partido Nacional Comunista"
+    name = "PNC"
+}

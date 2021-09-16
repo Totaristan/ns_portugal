@@ -1,0 +1,19 @@
+state={
+	id=191
+	name="STATE_191"
+	provinces={
+		806 1236 1239 1616 1939 1997 2526 2782 2792 2801 2819 
+	}
+    manpower=66011
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = CND
+        add_core_of = CND
+    }
+}

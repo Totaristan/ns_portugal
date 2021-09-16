@@ -1,0 +1,20 @@
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		261 343 485 506 541 542 715 779 935 1011 1047 1090 1206 1238 1338 1439 1511 1576 1778 1795 1826 1968 1989 2072 2077 2175 2184 2257 2332 2343 2478 2806 2826 2840 2856 2859 2864 2874 2892 2896 2937 2938 2960 2971 2992 3001 
+	}
+    manpower=116187
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		victory_points = { 2896  5 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = APA
+        add_core_of = APA
+    }
+}

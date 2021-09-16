@@ -1,0 +1,19 @@
+state={
+	id=153
+	name="STATE_153"
+	provinces={
+		577 668 867 1336 1568 1587 1607 1716 2014 2740 
+	}
+    manpower=69772
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = WOR
+        add_core_of = WOR
+    }
+}

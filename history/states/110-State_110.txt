@@ -1,0 +1,19 @@
+state={
+	id=110
+	name="STATE_110"
+	provinces={
+		37 67 241 362 440 463 628 766 813 865 889 983 1050 1054 1133 1201 1375 1436 1453 1513 1688 1858 1911 2002 2103 2141 2470 2501 2645 2659 2666 2667 2669 2672 2674 2679 2689 
+	}
+    manpower=68697
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = COM
+        add_core_of = COM
+    }
+}

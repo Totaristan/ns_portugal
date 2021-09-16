@@ -1,0 +1,19 @@
+state={
+	id=196
+	name="STATE_196"
+	provinces={
+		8 82 344 517 607 665 733 1116 1135 1186 1220 1316 1463 1677 1725 1751 1794 2162 2399 2410 2528 2822 2824 2829 2842 2851 2871 2887 2931 
+	}
+    manpower=44044
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = OFI
+        add_core_of = OFI
+    }
+}

@@ -1,0 +1,19 @@
+state={
+	id=173
+	name="STATE_173"
+	provinces={
+		479 594 619 1450 1765 1831 1963 2040 2086 2763 
+	}
+    manpower=86067
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = JRG
+        add_core_of = JRG
+    }
+}

@@ -1,0 +1,19 @@
+state={
+	id=152
+	name="STATE_152"
+	provinces={
+		53 62 189 190 323 333 337 456 603 700 723 728 773 804 888 1044 1071 1085 1288 1323 1452 1602 1730 1980 2120 2492 2720 2733 2745 2749 2774 2846 
+	}
+    manpower=9197
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PEA
+        add_core_of = PEA
+    }
+}

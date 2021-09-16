@@ -1,0 +1,19 @@
+state={
+	id=1
+	name="STATE_1"
+	provinces={
+		96 788 819 828 1189 
+	}
+	manpower=6830
+	buildings_max_level_factor=1.000
+	state_category = town
+	history = {
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = NHO
+		add_core_of = NHO
+	}
+}

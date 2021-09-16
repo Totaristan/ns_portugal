@@ -1,0 +1,23 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		103 135 812 1993 2211 
+	}
+    manpower=8511
+	resources={
+		oil=10
+	}
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = HER
+        add_core_of = HER
+    }
+}

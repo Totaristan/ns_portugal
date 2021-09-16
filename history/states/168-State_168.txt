@@ -1,0 +1,19 @@
+state={
+	id=168
+	name="STATE_168"
+	provinces={
+		550 1010 1123 1301 1320 1469 1687 1697 1718 1878 1979 2008 2153 2188 2264 2425 2757 2783 2786 2788 
+	}
+    manpower=46075
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = CND
+        add_core_of = CND
+    }
+}

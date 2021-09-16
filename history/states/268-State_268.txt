@@ -1,0 +1,19 @@
+state={
+	id=268
+	name="STATE_268"
+	provinces={
+		203 209 304 392 397 1397 1413 1528 1571 1904 2082 2099 2232 2317 2448 3278 3288 3289 3304 3309 3311 3315 3316 3329 3339 
+	}
+    manpower=213687
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = MED
+        add_core_of = MED
+    }
+}

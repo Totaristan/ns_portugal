@@ -1,0 +1,20 @@
+state={
+	id=235
+	name="STATE_235"
+	provinces={
+		78 140 230 329 472 483 501 679 762 877 928 944 964 988 993 994 1012 1103 1105 1253 1431 1475 1545 1640 1714 1715 1753 1801 1927 1954 1998 2019 2071 2145 2174 2179 2181 2199 2318 2428 2442 2491 2510 2944 2987 3017 3045 3049 3051 3056 3067 3070 3090 3101 3103 3106 3111 3120 3121 3128 3140 3142 3155 3157 3158 3162 3168 3172 
+	}
+    manpower=125267
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+		victory_points = { 944 40 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = OFI
+        add_core_of = OFI
+    }
+}

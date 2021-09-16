@@ -1,0 +1,20 @@
+state={
+	id=199
+	name="STATE_199"
+	provinces={
+		39 87 106 183 1067 1211 1299 1305 1433 1578 1644 1681 1754 1789 1808 2032 2140 2335 2841 2902 2933 2969 2974 
+	}
+    manpower=22546
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        victory_points = { 39 10 }
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = PEA
+        add_core_of = PEA
+    }
+}

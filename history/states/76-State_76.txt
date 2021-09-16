@@ -1,0 +1,19 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		94 155 249 1244 1531 1534 1709 2610 2642 
+	}
+    manpower=4998
+	buildings_max_level_factor=1.000
+    state_category = town
+    history = {
+        buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+        }
+        owner = UNI
+        add_core_of = UNI
+    }
+}
