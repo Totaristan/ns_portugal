@@ -13,9 +13,33 @@ set_politics = {
 }
 
 set_party_name = { 
+    ideology = communism 
+    long_name = "Comité Alentejano de Bolsheviques, Revolucionários e Anarquistas Operários"
+    name = "CABRAO"
+}
+
+set_party_name = { 
     ideology = socialismo 
-    long_name = "Partido Comunista Português"
-    name = "PCP"
+    long_name = "Partido Inclusivo Democrático Ecologista"
+    name = "PIDE"
+}
+
+set_party_name = { 
+    ideology = neutrality 
+    long_name = "Corpo Expedicionário Corujense"
+    name = "CEC"
+}
+
+set_party_name = { 
+    ideology = democratic 
+    long_name = "Partido Independente Liberal Alentejano"
+    name = "PILA"
+}
+
+set_party_name = { 
+    ideology = fascism 
+    long_name = "AVANTE!"
+    name = "AVANTE!"
 }
 
 create_country_leader = {

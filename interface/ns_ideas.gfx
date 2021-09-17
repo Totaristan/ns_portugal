@@ -3,4 +3,83 @@ spriteTypes = {
 		name = "GFX_idea_wa"
 		texturefile = "gfx/interface/ideas/AAA_wa.dds"
 	}
+
+	SpriteType = {
+		name = "GFX_idea_arnaldo"
+		texturefile = "gfx/interface/ideas/arnaldo.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_passos"
+		texturefile = "gfx/interface/ideas/passos.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_nando"
+		texturefile = "gfx/interface/ideas/nando.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_costa"
+		texturefile = "gfx/interface/ideas/costa.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_cristas"
+		texturefile = "gfx/interface/ideas/cristas.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_idea_tap"
+		texturefile = "gfx/interface/ideas/idea_tap.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_umm"
+		texturefile = "gfx/interface/ideas/idea_umm.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_arsenal_alfeite"
+		texturefile = "gfx/interface/ideas/idea_arsenal_alfeite.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_fabrica_material_guerra"
+		texturefile = "gfx/interface/ideas/idea_fabrica_material_guerra.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_lisnave"
+		texturefile = "gfx/interface/ideas/idea_lisnave.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_sonap"
+		texturefile = "gfx/interface/ideas/idea_sonap.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_edp"
+		texturefile = "gfx/interface/ideas/idea_edp.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ogma"
+		texturefile = "gfx/interface/ideas/idea_ogma.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_arsenal_marinha"
+		texturefile = "gfx/interface/ideas/idea_arsenal_marinha.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_forca_aerea"
+		texturefile = "gfx/interface/ideas/idea_forca_aerea.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_fabrica_polvoras_artificios"
+		texturefile = "gfx/interface/ideas/idea_fabrica_polvoras_artificios.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_soares_costa"
+		texturefile = "gfx/interface/ideas/idea_soares_costa.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_bes"
+		texturefile = "gfx/interface/ideas/idea_bes.dds"
+	}
 }

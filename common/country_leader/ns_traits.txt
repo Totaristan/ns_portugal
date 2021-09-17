@@ -1,0 +1,16 @@
+leader_traits = {
+    socialist_familiar = {
+		random = no
+		# Boosts Socialismo
+		sprite = 13
+		socialismo_drift = 0.1
+		
+		ai_will_do = {
+			factor = 1
+			modifier = { 
+				not = { has_completed_focus = USA_america_first }
+				factor = 0
+			}
+		}
+	}
+}
